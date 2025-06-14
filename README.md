@@ -25,3 +25,12 @@ J’ai réalisé l’intégralité du projet, de la conception à la configurati
 - Écriture de **règles ACL** précises pour sécuriser les flux  
 - Analyse des paquets et tests de connectivité  
 - Autonomie et rigueur dans la gestion d’un projet réseau complet
+
+##  Aperçu
+
+Une image de la topologie réseau est disponible dans ce dépôt pour visualiser l’architecture mise en place.
+
+##  Obtenir le projet complet
+
+Si vous souhaitez récupérer le projet GNS3 complet (fichier `.gns3` + configs), vous pouvez me contacter par mail à l’adresse suivante :  
+**aanzour13@gmail.com**
