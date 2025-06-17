@@ -30,6 +30,11 @@ J’ai réalisé l’intégralité du projet, de la conception à la configurati
 
 ![gns3](https://github.com/user-attachments/assets/dc2e3dde-a7f9-48c1-b8c2-4208a555a7fa)
 
+
+
+## Bilan 
+J’ai bien aimé cette SAE car elle m’a permis de mettre en pratique mes connaissances en réseau. Le projet était intéressant et complet, même si j’ai rencontré quelques problèmes avec GNS3. Malgré cela, j’ai beaucoup appris et je suis satisfait du résultat.
+
 ##  Obtenir le projet complet
 
 Si vous souhaitez récupérer le projet GNS3 complet (fichier `.gns3` + configs), vous pouvez me contacter par mail à l’adresse suivante :  
