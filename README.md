@@ -29,7 +29,7 @@ J’ai réalisé l’intégralité du projet, de la conception à la configurati
 
 
 ## Bilan 
-J’ai bien aimé cette SAE car elle m’a permis de mettre en pratique mes connaissances en réseau. Le projet était intéressant et complet, même si j’ai rencontré quelques problèmes avec GNS3. Malgré cela, j’ai beaucoup appris et je suis satisfait du résultat.
+J’ai bien aimé cette SAE car elle m’a permis de mettre en pratique mes connaissances en réseau. Le projet était intéressant et complet, même si j’ai rencontré quelques problèmes avec GNS3. J’ai eu un souci sur mon PC personnel et j’ai dû passer beaucoup de temps à régler les paramètres de la VM pour le faire fonctionner. Malgré cela, j’ai beaucoup appris et je suis satisfait du résultat.
 
 ##  Obtenir le projet complet
 
