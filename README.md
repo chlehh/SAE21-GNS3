@@ -1,7 +1,7 @@
 #  Projet GNS3 – Simulation Réseau avec services et sécurisation
 
 Ce projet a été réalisé seul dans le cadre de ma formation en Réseaux & Télécommunications. C’était l’un des projets les plus complets de l’année. Il avait pour but de simuler un réseau d’entreprise avec GNS3 et de configurer différents services tout en assurant la sécurité du réseau.
-
+![gns3](https://github.com/user-attachments/assets/dc2e3dde-a7f9-48c1-b8c2-4208a555a7fa)
 ##  Objectifs
 
 - Concevoir une topologie réseau avec plusieurs équipements Cisco (routeurs, switches)
@@ -25,10 +25,6 @@ J’ai réalisé l’intégralité du projet, de la conception à la configurati
 - AC12.04 | Utiliser des outils de simulation comme GNS3 pour tester une configuration réseau.
 - AC12.05 | Déployer des services réseau (Apache, FTP) dans une topologie simulée.
 - AC12.06 | Sécuriser un réseau avec des ACLs pour contrôler le trafic.
-
-##  Aperçu
-
-![gns3](https://github.com/user-attachments/assets/dc2e3dde-a7f9-48c1-b8c2-4208a555a7fa)
 
 
 
