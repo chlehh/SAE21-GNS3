@@ -12,21 +12,27 @@ Ce projet a été réalisé seul dans le cadre de ma formation en Réseaux & Té
 
 ## Compétences mobilisées et actions réalisées
 AC12.01 | Identifier les équipements et leurs rôles dans un réseau informatique.
+
 → J’ai choisi et placé les routeurs, switchs et serveurs selon leur fonction dans la topologie réseau.
 
 AC12.02 | Réaliser l’adressage IP selon les besoins (VLAN, sous-réseaux).
+
 → J’ai configuré l’adressage IP pour chaque VLAN et sous-réseau, adapté aux différents services.
 
 AC12.03 | Connecter, configurer et tester les équipements réseau (routeurs, switchs, serveurs).
+
 → J’ai configuré les routeurs, switchs, le routage inter-VLAN, et j’ai testé les connexions entre les équipements.
 
 AC12.04 | Utiliser des outils de simulation comme GNS3 pour tester une configuration réseau.
+
 → J’ai utilisé GNS3 pour simuler l’ensemble du réseau, vérifier les configurations et effectuer des tests de connectivité.
 
 AC12.05 | Déployer des services réseau (Apache, FTP) dans une topologie simulée.
+
 → J’ai installé et configuré les services Apache et FTP sur un serveur Linux dans l’environnement simulé.
 
 AC12.06 | Sécuriser un réseau avec des ACLs pour contrôler le trafic.
+
 → J’ai écrit et appliqué des ACLs pour autoriser ou bloquer certaines communications entre les VLANs.
 
 
